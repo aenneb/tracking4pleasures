@@ -5,4 +5,4 @@ Materials and methods follow the one of this previous study but extends the prot
 
 
 Reference:
-Brielmann, A. A., & Pelli, D. G. (2020). Tracking two pleasures. Psychonomic Bulletin & Review, 1-11.
+Brielmann, A. A., & Pelli, D. G. (under review). the pelasure of multiple images. Attention, Perception, & Psychophysics

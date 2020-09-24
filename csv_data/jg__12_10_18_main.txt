@@ -1,0 +1,367 @@
+Participant: jg
+12 10 18 12:31:25
+image_duration: 0.20
+precue_duration: 1.00
+pause_duration: 0.50
+nBlocks: 4
+image_1	image_2	image_3	image_4	pre_or_post_cue	which_image_cued	pelasure	key_pressed	rt	
+Feces 1.jpg	Wedding 12.jpg	Fence 2.jpg	Injury 1.jpg	1	1	4	33	1.843034e+00
+Gazing 7.jpg	Feces 1.jpg	KKK rally 1.jpg	Severed finger 1.jpg	1	4	5	34	3.327234e+00
+Bored pose 1.jpg	Cliff diver 1.jpg	KKK rally 1.jpg	Nature 1.jpg	1	1	7	36	2.222793e+00
+Goat 2.jpg	Lake 9.jpg	Fence 2.jpg	Dirt 5.jpg	1	1	3	32	1.943483e+00
+Alcohol 5.jpg	Severed finger 1.jpg	Office supplies 1.jpg	Injury 4.jpg	1	4	7	36	8.600291e-01
+Lake 14.jpg	Lake 9.jpg	Heart 1.jpg	Beach 2.jpg	1	4	9	38	1.209105e+00
+Tumor 1.jpg	Sunset 4.jpg	Gazing 7.jpg	Lake 12.jpg	1	4	1	30	8.500546e-01
+Injury 4.jpg	Lake 12.jpg	Spider 2.jpg	Fence 4.jpg	1	1	1	30	1.412877e+00
+Plane crash 3.jpg	Fence 4.jpg	Nature 1.jpg	Alcohol 5.jpg	1	1	6	35	4.346087e+00
+Spider 2.jpg	Lake 12.jpg	Injury 4.jpg	Dirt 5.jpg	1	2	5	34	3.028871e+00
+Street 4.jpg	Cat 10.jpg	Wedding 12.jpg	Spider 2.jpg	1	4	8	37	1.412909e+00
+Bar 2.jpg	Severed finger 1.jpg	Cotton swabs 2.jpg	Plane crash 3.jpg	1	5	5	34	1.884364e+00
+Dirt 5.jpg	Lake 14.jpg	Heart 1.jpg	Dog 13.jpg	1	3	5	34	4.244408e+00
+Tumor 1.jpg	Nature 1.jpg	Alcohol 5.jpg	Dog 19.jpg	1	5	3	32	5.439798e+00
+Cliff diver 1.jpg	Fire hydrant 2.jpg	Office supplies 1.jpg	Fence 4.jpg	1	1	8	37	3.030958e+00
+Dog 13.jpg	Sunset 4.jpg	Lake 9.jpg	Fence 2.jpg	1	5	8	37	2.483617e+00
+Bar 2.jpg	Sunset 4.jpg	Dirt 5.jpg	Feces 2.jpg	1	2	3	32	5.665046e+00
+Office supplies 1.jpg	Heart 1.jpg	Sunset 3.jpg	Bored pose 1.jpg	1	2	4	33	2.339125e+00
+Sunset 4.jpg	Nature 1.jpg	Feces 1.jpg	Bored pose 1.jpg	1	3	8	37	4.227967e+00
+Fire hydrant 2.jpg	Cat 10.jpg	Sunset 3.jpg	Dirt 5.jpg	1	2	3	32	4.348332e+00
+Lake 15.jpg	Beach 2.jpg	KKK rally 1.jpg	Cliff diver 1.jpg	1	5	4	33	9.701787e+00
+Fire hydrant 2.jpg	Feces 2.jpg	Cat 10.jpg	Injury 1.jpg	1	5	4	33	6.704365e+00
+Cat 10.jpg	KKK rally 1.jpg	Fence 2.jpg	Fence 4.jpg	1	1	8	37	2.827024e+00
+Dog 19.jpg	Wedding 12.jpg	Lake 12.jpg	Dead bodies 1.jpg	1	3	8	37	6.784169e-01
+Sunset 3.jpg	Feces 1.jpg	Dirt 5.jpg	Office supplies 1.jpg	1	4	7	36	1.753454e+00
+Injury 1.jpg	Feces 1.jpg	Dog 19.jpg	Severed finger 1.jpg	1	1	1	30	1.016922e+00
+KKK rally 1.jpg	Feces 2.jpg	Fire hydrant 2.jpg	Spider 2.jpg	1	1	1	30	1.836841e+00
+Cotton swabs 2.jpg	Severed finger 1.jpg	Tumor 1.jpg	Injury 1.jpg	1	3	4	33	3.963629e+00
+Spider 2.jpg	Dirt 5.jpg	Street 4.jpg	Heart 1.jpg	1	5	4	33	2.721802e+00
+Lake 15.jpg	Bar 2.jpg	Sunset 4.jpg	KKK rally 1.jpg	1	4	8	37	4.182761e+00
+Fence 4.jpg	Lake 14.jpg	Lake 9.jpg	Goat 2.jpg	1	2	2	31	2.020021e+00
+Dead bodies 1.jpg	Bar 2.jpg	Lake 12.jpg	Bored pose 1.jpg	1	3	1	30	1.552888e+00
+Dog 13.jpg	Fire hydrant 2.jpg	Dog 19.jpg	Street 4.jpg	1	3	7	36	1.953574e+00
+Fence 2.jpg	Goat 2.jpg	Fence 4.jpg	KKK rally 1.jpg	1	3	3	32	2.476621e+00
+Lake 14.jpg	Fence 4.jpg	Dead bodies 1.jpg	Office supplies 1.jpg	1	5	1	30	8.364529e-01
+Feces 2.jpg	Bar 2.jpg	Injury 1.jpg	Office supplies 1.jpg	1	2	2	31	3.499568e+00
+Injury 4.jpg	Feces 1.jpg	Wedding 12.jpg	Gazing 7.jpg	1	5	1	30	1.598908e+00
+Goat 2.jpg	Sunset 3.jpg	Bored pose 1.jpg	Lake 12.jpg	1	5	6	35	4.861900e+00
+Heart 1.jpg	Dirt 5.jpg	Feces 1.jpg	Cat 10.jpg	1	2	3	32	3.785380e+00
+Lake 9.jpg	Injury 4.jpg	Severed finger 1.jpg	Dog 13.jpg	1	4	9	38	1.963473e+00
+Severed finger 1.jpg	Wedding 12.jpg	Fence 4.jpg	Lake 14.jpg	1	3	1	30	8.891455e-01
+Beach 2.jpg	Spider 2.jpg	Injury 4.jpg	Bar 2.jpg	1	2	7	36	2.492995e+00
+Wedding 12.jpg	KKK rally 1.jpg	Lake 12.jpg	Dog 13.jpg	1	4	3	32	1.375568e+00
+Nature 1.jpg	Lake 12.jpg	Cliff diver 1.jpg	Dog 13.jpg	1	2	8	37	1.289731e+00
+Lake 12.jpg	Feces 2.jpg	Heart 1.jpg	Wedding 12.jpg	1	3	9	38	5.527452e-01
+Injury 4.jpg	Feces 1.jpg	Wedding 12.jpg	Gazing 7.jpg	2	5	1	30	2.015941e+00
+Fire hydrant 2.jpg	Feces 2.jpg	Cat 10.jpg	Injury 1.jpg	2	5	1	30	1.312386e+00
+Nature 1.jpg	Lake 12.jpg	Cliff diver 1.jpg	Dog 13.jpg	2	2	9	38	3.560385e+00
+Lake 12.jpg	Feces 2.jpg	Heart 1.jpg	Wedding 12.jpg	2	3	9	38	8.413156e-01
+Dead bodies 1.jpg	Bar 2.jpg	Lake 12.jpg	Bored pose 1.jpg	2	3	1	30	5.538949e-01
+Cotton swabs 2.jpg	Severed finger 1.jpg	Tumor 1.jpg	Injury 1.jpg	2	3	2	31	1.831387e+00
+Sunset 4.jpg	Nature 1.jpg	Feces 1.jpg	Bored pose 1.jpg	2	3	7	36	2.353532e+00
+Lake 14.jpg	Lake 9.jpg	Heart 1.jpg	Beach 2.jpg	2	4	9	38	5.581811e-01
+Fire hydrant 2.jpg	Cat 10.jpg	Sunset 3.jpg	Dirt 5.jpg	2	2	3	32	1.418063e+00
+Plane crash 3.jpg	Fence 4.jpg	Nature 1.jpg	Alcohol 5.jpg	2	1	5	34	2.435420e+00
+Dog 13.jpg	Sunset 4.jpg	Lake 9.jpg	Fence 2.jpg	2	5	7	36	6.060928e+00
+Feces 1.jpg	Wedding 12.jpg	Fence 2.jpg	Injury 1.jpg	2	1	3	32	7.153710e+00
+Bored pose 1.jpg	Cliff diver 1.jpg	KKK rally 1.jpg	Nature 1.jpg	2	1	7	36	1.594216e+00
+Wedding 12.jpg	KKK rally 1.jpg	Lake 12.jpg	Dog 13.jpg	2	4	5	34	1.548597e+00
+Severed finger 1.jpg	Wedding 12.jpg	Fence 4.jpg	Lake 14.jpg	2	3	1	30	4.794637e-01
+Goat 2.jpg	Lake 9.jpg	Fence 2.jpg	Dirt 5.jpg	2	1	5	34	2.369490e+00
+Heart 1.jpg	Dirt 5.jpg	Feces 1.jpg	Cat 10.jpg	2	2	3	32	7.815678e-01
+Spider 2.jpg	Dirt 5.jpg	Street 4.jpg	Heart 1.jpg	2	5	5	34	4.114172e+00
+Fence 4.jpg	Lake 14.jpg	Lake 9.jpg	Goat 2.jpg	2	2	5	34	3.043282e+00
+Tumor 1.jpg	Sunset 4.jpg	Gazing 7.jpg	Lake 12.jpg	2	4	1	30	4.006419e-01
+Beach 2.jpg	Spider 2.jpg	Injury 4.jpg	Bar 2.jpg	2	2	7	36	3.215696e+00
+Dog 19.jpg	Wedding 12.jpg	Lake 12.jpg	Dead bodies 1.jpg	2	3	9	38	5.603522e+00
+Street 4.jpg	Cat 10.jpg	Wedding 12.jpg	Spider 2.jpg	2	4	9	38	6.704504e-01
+Lake 15.jpg	Beach 2.jpg	KKK rally 1.jpg	Cliff diver 1.jpg	2	5	2	31	1.015363e+00
+Cliff diver 1.jpg	Fire hydrant 2.jpg	Office supplies 1.jpg	Fence 4.jpg	2	1	8	37	2.003765e+00
+Tumor 1.jpg	Nature 1.jpg	Alcohol 5.jpg	Dog 19.jpg	2	5	2	31	4.102288e+00
+Lake 15.jpg	Bar 2.jpg	Sunset 4.jpg	KKK rally 1.jpg	2	4	8	37	1.332812e+00
+Spider 2.jpg	Lake 12.jpg	Injury 4.jpg	Dirt 5.jpg	2	2	3	32	1.473772e+00
+Fence 2.jpg	Goat 2.jpg	Fence 4.jpg	KKK rally 1.jpg	2	3	3	32	1.192796e+00
+Cat 10.jpg	KKK rally 1.jpg	Fence 2.jpg	Fence 4.jpg	2	1	8	37	2.326523e+00
+Feces 2.jpg	Bar 2.jpg	Injury 1.jpg	Office supplies 1.jpg	2	2	2	31	1.308631e+00
+Goat 2.jpg	Sunset 3.jpg	Bored pose 1.jpg	Lake 12.jpg	2	5	8	37	3.442458e+00
+Alcohol 5.jpg	Severed finger 1.jpg	Office supplies 1.jpg	Injury 4.jpg	2	4	8	37	1.360772e+00
+Lake 9.jpg	Injury 4.jpg	Severed finger 1.jpg	Dog 13.jpg	2	4	8	37	1.713186e+00
+Bar 2.jpg	Sunset 4.jpg	Dirt 5.jpg	Feces 2.jpg	2	2	4	33	6.407060e-01
+Bar 2.jpg	Severed finger 1.jpg	Cotton swabs 2.jpg	Plane crash 3.jpg	2	5	2	31	1.228438e+00
+Lake 14.jpg	Fence 4.jpg	Dead bodies 1.jpg	Office supplies 1.jpg	2	5	1	30	1.923715e+00
+KKK rally 1.jpg	Feces 2.jpg	Fire hydrant 2.jpg	Spider 2.jpg	2	1	1	30	4.763451e-01
+Dog 13.jpg	Fire hydrant 2.jpg	Dog 19.jpg	Street 4.jpg	2	3	8	37	6.917988e+00
+Sunset 3.jpg	Feces 1.jpg	Dirt 5.jpg	Office supplies 1.jpg	2	4	8	37	8.146724e-01
+Injury 1.jpg	Feces 1.jpg	Dog 19.jpg	Severed finger 1.jpg	2	1	1	30	3.719735e-01
+Dirt 5.jpg	Lake 14.jpg	Heart 1.jpg	Dog 13.jpg	2	3	3	32	5.929017e-01
+Gazing 7.jpg	Feces 1.jpg	KKK rally 1.jpg	Severed finger 1.jpg	2	4	5	34	2.477507e+00
+Injury 4.jpg	Lake 12.jpg	Spider 2.jpg	Fence 4.jpg	2	1	1	30	1.841976e-01
+Office supplies 1.jpg	Heart 1.jpg	Sunset 3.jpg	Bored pose 1.jpg	2	2	2	31	1.398141e+00
+Sunset 4.jpg	Feces 2.jpg	Goat 2.jpg	Fire hydrant 2.jpg	1	4	8	37	3.964976e+00
+Beach 2.jpg	Dog 19.jpg	Alcohol 5.jpg	Cliff diver 1.jpg	1	1	8	37	1.092027e+00
+Feces 1.jpg	Nature 1.jpg	Injury 1.jpg	Sunset 4.jpg	1	5	4	33	1.404759e+00
+Gazing 7.jpg	Injury 4.jpg	Dead bodies 1.jpg	Lake 15.jpg	1	1	5	34	5.201564e-01
+Alcohol 5.jpg	Fire hydrant 2.jpg	Beach 2.jpg	Office supplies 1.jpg	1	4	6	35	1.355824e+00
+Injury 1.jpg	Feces 2.jpg	Heart 1.jpg	Cat 10.jpg	1	3	1	30	1.831947e-01
+Injury 4.jpg	Goat 2.jpg	Lake 12.jpg	Gazing 7.jpg	1	3	1	30	4.921076e+00
+KKK rally 1.jpg	Lake 15.jpg	Lake 12.jpg	Spider 2.jpg	1	3	1	30	2.624564e+00
+Dead bodies 1.jpg	Lake 12.jpg	Severed finger 1.jpg	Alcohol 5.jpg	1	2	1	30	2.386115e-01
+Dog 13.jpg	Lake 12.jpg	Fence 2.jpg	Bar 2.jpg	1	5	7	36	1.274108e+00
+Fence 2.jpg	Spider 2.jpg	Goat 2.jpg	Gazing 7.jpg	1	4	3	32	1.340070e+00
+Street 4.jpg	Dead bodies 1.jpg	KKK rally 1.jpg	Fence 2.jpg	1	2	8	37	2.747222e+00
+Feces 2.jpg	Fence 4.jpg	Wedding 12.jpg	Fire hydrant 2.jpg	1	3	2	31	2.676416e+00
+Wedding 12.jpg	Injury 1.jpg	Dead bodies 1.jpg	KKK rally 1.jpg	1	4	4	33	2.039222e+00
+Lake 12.jpg	Nature 1.jpg	Beach 2.jpg	Spider 2.jpg	1	1	9	38	5.031333e-02
+Dog 19.jpg	Wedding 12.jpg	Heart 1.jpg	Goat 2.jpg	1	3	8	37	1.893777e+00
+Goat 2.jpg	Plane crash 3.jpg	Nature 1.jpg	Heart 1.jpg	1	4	5	34	1.456003e+00
+Cotton swabs 2.jpg	Sunset 4.jpg	Dog 13.jpg	Injury 1.jpg	1	2	2	31	4.469366e-01
+Fire hydrant 2.jpg	Beach 2.jpg	Street 4.jpg	Gazing 7.jpg	1	1	3	32	1.908455e-01
+Cliff diver 1.jpg	Feces 2.jpg	Injury 1.jpg	Sunset 4.jpg	1	2	8	37	4.284795e-01
+Lake 15.jpg	Bored pose 1.jpg	Alcohol 5.jpg	Severed finger 1.jpg	1	3	9	38	3.727840e-01
+Beach 2.jpg	Severed finger 1.jpg	Lake 9.jpg	Street 4.jpg	1	5	2	31	5.460120e+00
+Lake 14.jpg	Fire hydrant 2.jpg	Dog 13.jpg	Lake 9.jpg	1	1	9	38	1.708589e+00
+Dirt 5.jpg	Fence 4.jpg	Sunset 4.jpg	Cliff diver 1.jpg	1	4	3	32	1.440020e-01
+Nature 1.jpg	Sunset 3.jpg	Dirt 5.jpg	Feces 1.jpg	1	2	8	37	9.365157e-01
+Bored pose 1.jpg	Plane crash 3.jpg	Tumor 1.jpg	Wedding 12.jpg	1	5	2	31	6.859510e-01
+Tumor 1.jpg	KKK rally 1.jpg	Gazing 7.jpg	Street 4.jpg	1	4	1	30	1.295776e+00
+Fence 4.jpg	Dog 19.jpg	Plane crash 3.jpg	Feces 2.jpg	1	4	2	31	3.996996e-01
+Sunset 3.jpg	Fence 2.jpg	Injury 4.jpg	Street 4.jpg	1	1	7	36	1.080952e+01
+Plane crash 3.jpg	Tumor 1.jpg	Bored pose 1.jpg	Bar 2.jpg	1	2	7	36	1.839140e+00
+Sunset 3.jpg	Dog 19.jpg	Cat 10.jpg	Injury 4.jpg	1	5	2	31	7.918083e-01
+Dog 13.jpg	Nature 1.jpg	Lake 9.jpg	Cotton swabs 2.jpg	1	1	7	36	3.122073e+00
+Office supplies 1.jpg	Fire hydrant 2.jpg	Dog 19.jpg	Fence 4.jpg	1	2	3	32	1.523363e+00
+Bar 2.jpg	Fire hydrant 2.jpg	Dirt 5.jpg	KKK rally 1.jpg	1	3	2	31	1.768584e+00
+Spider 2.jpg	Street 4.jpg	Lake 15.jpg	Bar 2.jpg	1	2	4	33	6.486076e-01
+Bored pose 1.jpg	Sunset 3.jpg	Cat 10.jpg	Spider 2.jpg	1	3	7	36	2.081990e+00
+Feces 2.jpg	Office supplies 1.jpg	Cotton swabs 2.jpg	Dead bodies 1.jpg	1	5	1	30	6.929058e-01
+Spider 2.jpg	Cliff diver 1.jpg	Gazing 7.jpg	Dirt 5.jpg	1	5	6	35	4.099836e+00
+Lake 9.jpg	Office supplies 1.jpg	KKK rally 1.jpg	Spider 2.jpg	1	3	9	38	3.249014e-01
+Cat 10.jpg	Dog 19.jpg	Fence 4.jpg	Feces 1.jpg	1	4	8	37	9.137818e-01
+Heart 1.jpg	Alcohol 5.jpg	Goat 2.jpg	Lake 12.jpg	1	1	3	32	6.233924e-01
+Alcohol 5.jpg	Lake 15.jpg	Goat 2.jpg	Lake 14.jpg	1	5	9	38	9.734394e-02
+Feces 1.jpg	Heart 1.jpg	Cotton swabs 2.jpg	Fence 4.jpg	1	1	2	31	1.556650e+00
+Severed finger 1.jpg	Lake 14.jpg	KKK rally 1.jpg	Lake 15.jpg	1	2	1	30	3.198658e-01
+Heart 1.jpg	KKK rally 1.jpg	Fence 4.jpg	Fire hydrant 2.jpg	1	5	1	30	1.355231e+00
+Lake 15.jpg	Bored pose 1.jpg	Alcohol 5.jpg	Severed finger 1.jpg	2	3	7	36	5.328178e+00
+Feces 1.jpg	Heart 1.jpg	Cotton swabs 2.jpg	Fence 4.jpg	2	1	2	31	3.400813e+00
+Tumor 1.jpg	KKK rally 1.jpg	Gazing 7.jpg	Street 4.jpg	2	4	1	30	7.070860e-01
+Heart 1.jpg	Alcohol 5.jpg	Goat 2.jpg	Lake 12.jpg	2	1	3	32	8.160896e-01
+Alcohol 5.jpg	Lake 15.jpg	Goat 2.jpg	Lake 14.jpg	2	5	9	38	3.795136e-01
+Cliff diver 1.jpg	Feces 2.jpg	Injury 1.jpg	Sunset 4.jpg	2	2	7	36	1.733261e+00
+Beach 2.jpg	Severed finger 1.jpg	Lake 9.jpg	Street 4.jpg	2	5	2	31	1.358626e+00
+Beach 2.jpg	Dog 19.jpg	Alcohol 5.jpg	Cliff diver 1.jpg	2	1	6	35	7.769709e-01
+Bored pose 1.jpg	Plane crash 3.jpg	Tumor 1.jpg	Wedding 12.jpg	2	5	3	32	1.502747e+00
+Plane crash 3.jpg	Tumor 1.jpg	Bored pose 1.jpg	Bar 2.jpg	2	2	4	33	2.366781e+00
+Fence 4.jpg	Dog 19.jpg	Plane crash 3.jpg	Feces 2.jpg	2	4	3	32	1.102671e+00
+Dog 13.jpg	Nature 1.jpg	Lake 9.jpg	Cotton swabs 2.jpg	2	1	8	37	5.853847e-01
+Cat 10.jpg	Dog 19.jpg	Fence 4.jpg	Feces 1.jpg	2	4	8	37	7.286935e-01
+Bored pose 1.jpg	Sunset 3.jpg	Cat 10.jpg	Spider 2.jpg	2	3	7	36	3.068920e+00
+Spider 2.jpg	Street 4.jpg	Lake 15.jpg	Bar 2.jpg	2	2	6	35	6.684481e-01
+Office supplies 1.jpg	Fire hydrant 2.jpg	Dog 19.jpg	Fence 4.jpg	2	2	3	32	4.720746e-01
+Bar 2.jpg	Fire hydrant 2.jpg	Dirt 5.jpg	KKK rally 1.jpg	2	3	4	33	9.032606e-01
+Feces 2.jpg	Fence 4.jpg	Wedding 12.jpg	Fire hydrant 2.jpg	2	3	1	30	8.886557e-01
+Injury 1.jpg	Feces 2.jpg	Heart 1.jpg	Cat 10.jpg	2	3	1	30	1.846732e-01
+Dog 19.jpg	Wedding 12.jpg	Heart 1.jpg	Goat 2.jpg	2	3	8	37	6.853881e+00
+KKK rally 1.jpg	Lake 15.jpg	Lake 12.jpg	Spider 2.jpg	2	3	1	30	3.985516e-01
+Gazing 7.jpg	Injury 4.jpg	Dead bodies 1.jpg	Lake 15.jpg	2	1	5	34	3.057204e+00
+Injury 4.jpg	Goat 2.jpg	Lake 12.jpg	Gazing 7.jpg	2	3	1	30	1.901858e-01
+Sunset 3.jpg	Dog 19.jpg	Cat 10.jpg	Injury 4.jpg	2	5	2	31	8.241246e-01
+Feces 1.jpg	Nature 1.jpg	Injury 1.jpg	Sunset 4.jpg	2	5	2	31	9.168770e-01
+Dead bodies 1.jpg	Lake 12.jpg	Severed finger 1.jpg	Alcohol 5.jpg	2	2	1	30	9.898656e-01
+Street 4.jpg	Dead bodies 1.jpg	KKK rally 1.jpg	Fence 2.jpg	2	2	7	36	2.302456e+00
+Spider 2.jpg	Cliff diver 1.jpg	Gazing 7.jpg	Dirt 5.jpg	2	5	6	35	2.322455e+00
+Cotton swabs 2.jpg	Sunset 4.jpg	Dog 13.jpg	Injury 1.jpg	2	2	3	32	8.586839e-01
+Fence 2.jpg	Spider 2.jpg	Goat 2.jpg	Gazing 7.jpg	2	4	3	32	1.061768e+00
+Lake 14.jpg	Fire hydrant 2.jpg	Dog 13.jpg	Lake 9.jpg	2	1	9	38	2.117253e-01
+Wedding 12.jpg	Injury 1.jpg	Dead bodies 1.jpg	KKK rally 1.jpg	2	4	5	34	4.712927e+00
+Nature 1.jpg	Sunset 3.jpg	Dirt 5.jpg	Feces 1.jpg	2	2	8	37	6.147206e-01
+Dog 13.jpg	Lake 12.jpg	Fence 2.jpg	Bar 2.jpg	2	5	7	36	2.435592e+00
+Feces 2.jpg	Office supplies 1.jpg	Cotton swabs 2.jpg	Dead bodies 1.jpg	2	5	1	30	1.132121e+00
+Heart 1.jpg	KKK rally 1.jpg	Fence 4.jpg	Fire hydrant 2.jpg	2	5	1	30	2.628482e-01
+Lake 9.jpg	Office supplies 1.jpg	KKK rally 1.jpg	Spider 2.jpg	2	3	9	38	4.386421e-01
+Dirt 5.jpg	Fence 4.jpg	Sunset 4.jpg	Cliff diver 1.jpg	2	4	3	32	2.175080e+00
+Sunset 3.jpg	Fence 2.jpg	Injury 4.jpg	Street 4.jpg	2	1	7	36	1.780991e+00
+Sunset 4.jpg	Feces 2.jpg	Goat 2.jpg	Fire hydrant 2.jpg	2	4	7	36	4.564781e+00
+Alcohol 5.jpg	Fire hydrant 2.jpg	Beach 2.jpg	Office supplies 1.jpg	2	4	6	35	6.151422e-01
+Lake 12.jpg	Nature 1.jpg	Beach 2.jpg	Spider 2.jpg	2	1	9	38	2.451049e-01
+Goat 2.jpg	Plane crash 3.jpg	Nature 1.jpg	Heart 1.jpg	2	4	5	34	3.332024e-01
+Severed finger 1.jpg	Lake 14.jpg	KKK rally 1.jpg	Lake 15.jpg	2	2	1	30	5.826009e-01
+Fire hydrant 2.jpg	Beach 2.jpg	Street 4.jpg	Gazing 7.jpg	2	1	3	32	6.149141e-01
+KKK rally 1.jpg	Injury 1.jpg	Cat 10.jpg	Lake 12.jpg	1	1	1	30	3.380506e-01
+Plane crash 3.jpg	Feces 1.jpg	Lake 12.jpg	Beach 2.jpg	1	4	4	33	2.649499e-01
+Wedding 12.jpg	Feces 1.jpg	Street 4.jpg	Gazing 7.jpg	1	5	6	35	1.989284e+00
+Beach 2.jpg	Injury 4.jpg	Heart 1.jpg	Lake 9.jpg	1	5	2	31	9.668941e-01
+Goat 2.jpg	Cliff diver 1.jpg	Gazing 7.jpg	Beach 2.jpg	1	2	5	34	4.329837e-01
+Lake 14.jpg	Lake 12.jpg	Cat 10.jpg	Beach 2.jpg	1	4	9	38	1.775034e-01
+Dead bodies 1.jpg	Plane crash 3.jpg	Heart 1.jpg	Nature 1.jpg	1	3	1	30	1.626771e-02
+Fire hydrant 2.jpg	Goat 2.jpg	Feces 1.jpg	Tumor 1.jpg	1	1	3	32	1.581895e-01
+Cotton swabs 2.jpg	Severed finger 1.jpg	Injury 1.jpg	Bored pose 1.jpg	1	2	3	32	2.434263e+00
+Tumor 1.jpg	Sunset 4.jpg	Lake 14.jpg	Fence 2.jpg	1	3	1	30	1.116223e-01
+Lake 15.jpg	Dog 13.jpg	Bar 2.jpg	Office supplies 1.jpg	1	3	9	38	5.053503e-01
+Office supplies 1.jpg	Cliff diver 1.jpg	Lake 15.jpg	Bar 2.jpg	1	4	2	31	1.370004e+00
+Dirt 5.jpg	Feces 2.jpg	Lake 15.jpg	Dog 19.jpg	1	4	2	31	2.475684e+00
+Injury 4.jpg	Injury 1.jpg	Heart 1.jpg	Severed finger 1.jpg	1	2	1	30	3.086332e+00
+Heart 1.jpg	Alcohol 5.jpg	Severed finger 1.jpg	Lake 12.jpg	1	1	3	32	1.670235e+00
+Feces 1.jpg	Cotton swabs 2.jpg	Office supplies 1.jpg	Fence 4.jpg	1	1	3	32	5.323141e+00
+Dog 13.jpg	Dog 19.jpg	Severed finger 1.jpg	Bored pose 1.jpg	1	5	3	32	3.367483e+00
+Gazing 7.jpg	Lake 12.jpg	Wedding 12.jpg	Heart 1.jpg	1	2	6	35	3.456099e+00
+Dog 13.jpg	Cliff diver 1.jpg	Goat 2.jpg	Lake 15.jpg	1	4	7	36	2.415163e+00
+Lake 12.jpg	Dog 13.jpg	Gazing 7.jpg	Injury 4.jpg	1	3	8	37	1.091607e+00
+Feces 2.jpg	Wedding 12.jpg	Bar 2.jpg	Street 4.jpg	1	3	1	30	1.084929e+00
+Severed finger 1.jpg	Goat 2.jpg	Wedding 12.jpg	Bar 2.jpg	1	4	1	30	3.653256e-02
+Tumor 1.jpg	Fence 4.jpg	KKK rally 1.jpg	Cliff diver 1.jpg	1	5	1	30	1.321419e+00
+Lake 9.jpg	Cat 10.jpg	Fence 4.jpg	Sunset 4.jpg	1	1	9	38	1.705095e-01
+Street 4.jpg	Sunset 3.jpg	Fence 4.jpg	Lake 14.jpg	1	2	6	35	1.077694e+00
+Feces 2.jpg	Spider 2.jpg	Alcohol 5.jpg	Dirt 5.jpg	1	5	6	35	1.763789e+00
+Injury 1.jpg	Street 4.jpg	Severed finger 1.jpg	Dirt 5.jpg	1	1	1	30	3.048474e-02
+Bored pose 1.jpg	Beach 2.jpg	Sunset 3.jpg	Dog 19.jpg	1	3	6	35	9.087923e-01
+Fence 4.jpg	Bored pose 1.jpg	Sunset 4.jpg	Bar 2.jpg	1	4	3	32	2.628765e-01
+Bar 2.jpg	Goat 2.jpg	Fire hydrant 2.jpg	Cotton swabs 2.jpg	1	5	4	33	1.072854e+00
+Alcohol 5.jpg	Lake 9.jpg	Feces 1.jpg	Wedding 12.jpg	1	3	6	35	5.209064e-01
+Cliff diver 1.jpg	Office supplies 1.jpg	Tumor 1.jpg	Dead bodies 1.jpg	1	4	6	35	7.590282e-01
+Spider 2.jpg	Alcohol 5.jpg	Lake 9.jpg	Feces 2.jpg	1	1	5	34	1.363492e+00
+Fence 2.jpg	Nature 1.jpg	Beach 2.jpg	Lake 9.jpg	1	3	3	32	9.386151e-01
+Injury 1.jpg	Office supplies 1.jpg	Lake 15.jpg	Dead bodies 1.jpg	1	5	1	30	5.333259e+00
+Nature 1.jpg	Dead bodies 1.jpg	Gazing 7.jpg	Fire hydrant 2.jpg	1	2	5	34	4.296804e+00
+Bar 2.jpg	Lake 14.jpg	Goat 2.jpg	Nature 1.jpg	1	3	4	33	2.092528e+00
+Dog 19.jpg	Lake 14.jpg	Injury 4.jpg	Cliff diver 1.jpg	1	4	8	37	3.364120e+00
+Beach 2.jpg	Lake 15.jpg	Tumor 1.jpg	Plane crash 3.jpg	1	1	8	37	7.405951e+00
+Cat 10.jpg	Wedding 12.jpg	Street 4.jpg	Beach 2.jpg	1	2	8	37	2.535853e+00
+Lake 12.jpg	Lake 14.jpg	Sunset 3.jpg	Nature 1.jpg	1	5	9	38	7.063352e-02
+Fence 2.jpg	Sunset 4.jpg	Plane crash 3.jpg	Cat 10.jpg	1	5	7	36	1.246576e+00
+Sunset 3.jpg	Fire hydrant 2.jpg	Feces 2.jpg	Goat 2.jpg	1	1	8	37	1.492866e+00
+Sunset 4.jpg	Bar 2.jpg	Sunset 3.jpg	Cliff diver 1.jpg	1	2	8	37	1.029031e-01
+Wedding 12.jpg	Injury 4.jpg	Cotton swabs 2.jpg	Bored pose 1.jpg	1	2	1	30	1.818864e+00
+Cotton swabs 2.jpg	Severed finger 1.jpg	Injury 1.jpg	Bored pose 1.jpg	2	2	3	32	1.514005e+00
+Wedding 12.jpg	Injury 4.jpg	Cotton swabs 2.jpg	Bored pose 1.jpg	2	2	2	31	1.143091e+00
+Bar 2.jpg	Lake 14.jpg	Goat 2.jpg	Nature 1.jpg	2	3	3	32	4.992859e-01
+Street 4.jpg	Sunset 3.jpg	Fence 4.jpg	Lake 14.jpg	2	2	6	35	9.815605e-01
+Feces 2.jpg	Spider 2.jpg	Alcohol 5.jpg	Dirt 5.jpg	2	5	5	34	2.754848e+00
+Gazing 7.jpg	Lake 12.jpg	Wedding 12.jpg	Heart 1.jpg	2	2	6	35	1.156946e+00
+Injury 1.jpg	Office supplies 1.jpg	Lake 15.jpg	Dead bodies 1.jpg	2	5	3	32	1.583700e+00
+Lake 12.jpg	Dog 13.jpg	Gazing 7.jpg	Injury 4.jpg	2	3	9	38	1.772533e+00
+Wedding 12.jpg	Feces 1.jpg	Street 4.jpg	Gazing 7.jpg	2	5	4	33	4.382615e+00
+Dirt 5.jpg	Feces 2.jpg	Lake 15.jpg	Dog 19.jpg	2	4	3	32	8.812918e-01
+Nature 1.jpg	Dead bodies 1.jpg	Gazing 7.jpg	Fire hydrant 2.jpg	2	2	8	37	8.977039e-01
+Injury 4.jpg	Injury 1.jpg	Heart 1.jpg	Severed finger 1.jpg	2	2	1	30	5.680347e-01
+Alcohol 5.jpg	Lake 9.jpg	Feces 1.jpg	Wedding 12.jpg	2	3	6	35	2.482010e+00
+Cat 10.jpg	Wedding 12.jpg	Street 4.jpg	Beach 2.jpg	2	2	8	37	5.291040e-01
+Feces 2.jpg	Wedding 12.jpg	Bar 2.jpg	Street 4.jpg	2	3	1	30	2.379838e-01
+Bored pose 1.jpg	Beach 2.jpg	Sunset 3.jpg	Dog 19.jpg	2	3	7	36	1.045060e+00
+Dog 13.jpg	Cliff diver 1.jpg	Goat 2.jpg	Lake 15.jpg	2	4	9	38	4.928215e-01
+Lake 12.jpg	Lake 14.jpg	Sunset 3.jpg	Nature 1.jpg	2	5	9	38	3.574946e-02
+Fence 2.jpg	Nature 1.jpg	Beach 2.jpg	Lake 9.jpg	2	3	3	32	1.090865e-01
+Goat 2.jpg	Cliff diver 1.jpg	Gazing 7.jpg	Beach 2.jpg	2	2	6	35	1.285029e+00
+Lake 9.jpg	Cat 10.jpg	Fence 4.jpg	Sunset 4.jpg	2	1	8	37	4.719118e-01
+Spider 2.jpg	Alcohol 5.jpg	Lake 9.jpg	Feces 2.jpg	2	1	5	34	3.335494e-01
+Lake 15.jpg	Dog 13.jpg	Bar 2.jpg	Office supplies 1.jpg	2	3	9	38	3.677789e-01
+Lake 14.jpg	Lake 12.jpg	Cat 10.jpg	Beach 2.jpg	2	4	9	38	2.612593e-01
+KKK rally 1.jpg	Injury 1.jpg	Cat 10.jpg	Lake 12.jpg	2	1	1	30	5.388580e-01
+Fence 4.jpg	Bored pose 1.jpg	Sunset 4.jpg	Bar 2.jpg	2	4	3	32	1.059397e+00
+Injury 1.jpg	Street 4.jpg	Severed finger 1.jpg	Dirt 5.jpg	2	1	1	30	2.110405e-01
+Sunset 4.jpg	Bar 2.jpg	Sunset 3.jpg	Cliff diver 1.jpg	2	2	7	36	1.552846e+00
+Dead bodies 1.jpg	Plane crash 3.jpg	Heart 1.jpg	Nature 1.jpg	2	3	1	30	6.368520e-02
+Tumor 1.jpg	Fence 4.jpg	KKK rally 1.jpg	Cliff diver 1.jpg	2	5	1	30	4.992773e-01
+Sunset 3.jpg	Fire hydrant 2.jpg	Feces 2.jpg	Goat 2.jpg	2	1	5	34	8.560174e-01
+Fire hydrant 2.jpg	Goat 2.jpg	Feces 1.jpg	Tumor 1.jpg	2	1	3	32	3.850437e-01
+Fence 2.jpg	Sunset 4.jpg	Plane crash 3.jpg	Cat 10.jpg	2	5	6	35	6.551825e-01
+Bar 2.jpg	Goat 2.jpg	Fire hydrant 2.jpg	Cotton swabs 2.jpg	2	5	5	34	1.050221e+00
+Tumor 1.jpg	Sunset 4.jpg	Lake 14.jpg	Fence 2.jpg	2	3	1	30	9.849834e-01
+Feces 1.jpg	Cotton swabs 2.jpg	Office supplies 1.jpg	Fence 4.jpg	2	1	2	31	1.744413e+00
+Dog 19.jpg	Lake 14.jpg	Injury 4.jpg	Cliff diver 1.jpg	2	4	9	38	5.660796e-01
+Plane crash 3.jpg	Feces 1.jpg	Lake 12.jpg	Beach 2.jpg	2	4	4	33	5.901297e-01
+Cliff diver 1.jpg	Office supplies 1.jpg	Tumor 1.jpg	Dead bodies 1.jpg	2	4	7	36	5.591719e-01
+Heart 1.jpg	Alcohol 5.jpg	Severed finger 1.jpg	Lake 12.jpg	2	1	3	32	1.035990e+00
+Beach 2.jpg	Injury 4.jpg	Heart 1.jpg	Lake 9.jpg	2	5	1	30	2.262186e+00
+Beach 2.jpg	Lake 15.jpg	Tumor 1.jpg	Plane crash 3.jpg	2	1	6	35	2.171148e+00
+Severed finger 1.jpg	Goat 2.jpg	Wedding 12.jpg	Bar 2.jpg	2	4	1	30	1.953385e-01
+Office supplies 1.jpg	Cliff diver 1.jpg	Lake 15.jpg	Bar 2.jpg	2	4	2	31	8.339411e-01
+Dog 13.jpg	Dog 19.jpg	Severed finger 1.jpg	Bored pose 1.jpg	2	5	3	32	1.342290e+00
+Nature 1.jpg	Sunset 4.jpg	Injury 4.jpg	Lake 15.jpg	1	1	9	38	2.986054e+00
+Gazing 7.jpg	Bored pose 1.jpg	Feces 2.jpg	Street 4.jpg	1	4	6	35	1.019235e+00
+Tumor 1.jpg	Bored pose 1.jpg	Spider 2.jpg	Severed finger 1.jpg	1	5	3	32	3.903845e+00
+Lake 12.jpg	Severed finger 1.jpg	Office supplies 1.jpg	Wedding 12.jpg	1	3	9	38	2.112879e+00
+Feces 2.jpg	Goat 2.jpg	Street 4.jpg	Beach 2.jpg	1	2	1	30	7.679640e-01
+Bored pose 1.jpg	Fence 4.jpg	Dirt 5.jpg	Nature 1.jpg	1	4	7	36	3.254252e-01
+Dead bodies 1.jpg	Spider 2.jpg	Injury 1.jpg	Nature 1.jpg	1	4	1	30	1.887267e+00
+Dog 19.jpg	KKK rally 1.jpg	Dead bodies 1.jpg	Cotton swabs 2.jpg	1	5	1	30	1.376946e+00
+Tumor 1.jpg	Spider 2.jpg	Lake 15.jpg	Severed finger 1.jpg	1	4	1	30	1.379242e+00
+Fence 2.jpg	Injury 1.jpg	Cliff diver 1.jpg	Goat 2.jpg	1	5	3	32	9.054801e-01
+Bar 2.jpg	Lake 12.jpg	Fire hydrant 2.jpg	Sunset 3.jpg	1	5	7	36	1.158288e+00
+Plane crash 3.jpg	Cat 10.jpg	Dog 19.jpg	KKK rally 1.jpg	1	4	3	32	1.302650e+00
+Beach 2.jpg	Injury 4.jpg	Gazing 7.jpg	Lake 14.jpg	1	5	3	32	2.650635e+00
+Fence 4.jpg	Feces 2.jpg	Dog 13.jpg	Tumor 1.jpg	1	3	3	32	5.320046e+00
+Lake 15.jpg	Cat 10.jpg	Lake 9.jpg	Nature 1.jpg	1	2	9	38	2.446517e-01
+Cotton swabs 2.jpg	KKK rally 1.jpg	Gazing 7.jpg	Dirt 5.jpg	1	2	3	32	4.280301e-01
+Dog 13.jpg	Lake 15.jpg	Street 4.jpg	Dead bodies 1.jpg	1	3	7	36	1.451517e+00
+Street 4.jpg	Lake 9.jpg	Feces 1.jpg	Heart 1.jpg	1	5	8	37	6.533829e-01
+KKK rally 1.jpg	Nature 1.jpg	Bored pose 1.jpg	Fence 4.jpg	1	1	1	30	1.746347e+00
+Spider 2.jpg	Cliff diver 1.jpg	Lake 15.jpg	Heart 1.jpg	1	1	5	34	5.333940e-01
+Sunset 4.jpg	Bored pose 1.jpg	Beach 2.jpg	Fire hydrant 2.jpg	1	4	8	37	5.329675e-01
+Severed finger 1.jpg	Nature 1.jpg	Alcohol 5.jpg	Lake 9.jpg	1	1	1	30	1.718855e-01
+Wedding 12.jpg	Dog 13.jpg	Alcohol 5.jpg	Feces 2.jpg	1	5	4	33	1.330832e+00
+Dirt 5.jpg	Fence 4.jpg	Severed finger 1.jpg	Dog 13.jpg	1	1	3	32	1.939430e+00
+Alcohol 5.jpg	Severed finger 1.jpg	Goat 2.jpg	Feces 1.jpg	1	3	6	35	7.065894e-01
+Lake 9.jpg	Office supplies 1.jpg	Sunset 4.jpg	Severed finger 1.jpg	1	2	8	37	2.345339e-02
+Beach 2.jpg	Goat 2.jpg	Injury 1.jpg	Dog 19.jpg	1	3	7	36	1.985664e-01
+Fire hydrant 2.jpg	Feces 2.jpg	Goat 2.jpg	Injury 4.jpg	1	3	3	32	1.308814e+00
+Cliff diver 1.jpg	Goat 2.jpg	Heart 1.jpg	Sunset 3.jpg	1	2	6	35	5.265542e-01
+Plane crash 3.jpg	Nature 1.jpg	Sunset 4.jpg	Fence 4.jpg	1	5	5	34	1.084399e+00
+Sunset 3.jpg	Gazing 7.jpg	Lake 12.jpg	Dirt 5.jpg	1	2	7	36	4.131087e-01
+Injury 1.jpg	Lake 9.jpg	Fence 4.jpg	Alcohol 5.jpg	1	4	1	30	1.234007e-01
+Dog 19.jpg	Nature 1.jpg	Bar 2.jpg	Injury 4.jpg	1	1	8	37	1.105621e-01
+Cat 10.jpg	Plane crash 3.jpg	Lake 14.jpg	Severed finger 1.jpg	1	1	8	37	1.115329e+00
+Office supplies 1.jpg	Lake 9.jpg	Goat 2.jpg	Tumor 1.jpg	1	3	2	31	4.516110e-01
+Street 4.jpg	Gazing 7.jpg	Fence 2.jpg	Fence 4.jpg	1	2	6	35	2.780541e-01
+Bar 2.jpg	Bored pose 1.jpg	Gazing 7.jpg	Cliff diver 1.jpg	1	1	4	33	7.296288e-01
+Injury 4.jpg	Cat 10.jpg	Street 4.jpg	Feces 1.jpg	1	2	1	30	1.443369e-01
+Heart 1.jpg	Severed finger 1.jpg	Sunset 4.jpg	Injury 4.jpg	1	3	2	31	2.465683e+00
+Wedding 12.jpg	Nature 1.jpg	Dog 19.jpg	Fence 4.jpg	1	3	4	33	1.271452e+00
+Lake 14.jpg	Lake 12.jpg	Cat 10.jpg	Office supplies 1.jpg	1	1	9	38	1.165977e-01
+Fence 2.jpg	Dead bodies 1.jpg	Office supplies 1.jpg	Beach 2.jpg	1	4	3	32	3.079496e+00
+Feces 1.jpg	Gazing 7.jpg	Tumor 1.jpg	Severed finger 1.jpg	1	4	1	30	1.420192e+00
+Goat 2.jpg	Feces 2.jpg	Dirt 5.jpg	Dead bodies 1.jpg	1	2	5	34	8.449146e-02
+Cat 10.jpg	Office supplies 1.jpg	Dirt 5.jpg	Lake 15.jpg	1	5	6	35	2.272423e+00
+Beach 2.jpg	Injury 4.jpg	Gazing 7.jpg	Lake 14.jpg	2	5	1	30	7.160375e-01
+Street 4.jpg	Gazing 7.jpg	Fence 2.jpg	Fence 4.jpg	2	2	6	35	9.020924e-01
+Lake 15.jpg	Cat 10.jpg	Lake 9.jpg	Nature 1.jpg	2	2	9	38	1.618406e+00
+Fire hydrant 2.jpg	Feces 2.jpg	Goat 2.jpg	Injury 4.jpg	2	3	2	31	1.978343e+00
+KKK rally 1.jpg	Nature 1.jpg	Bored pose 1.jpg	Fence 4.jpg	2	1	1	30	1.649926e-01
+Dead bodies 1.jpg	Spider 2.jpg	Injury 1.jpg	Nature 1.jpg	2	4	1	30	1.361835e+00
+Dog 19.jpg	Nature 1.jpg	Bar 2.jpg	Injury 4.jpg	2	1	9	38	8.769548e+00
+Lake 12.jpg	Severed finger 1.jpg	Office supplies 1.jpg	Wedding 12.jpg	2	3	9	38	1.959196e+00
+Plane crash 3.jpg	Nature 1.jpg	Sunset 4.jpg	Fence 4.jpg	2	5	4	33	8.024023e-01
+Wedding 12.jpg	Dog 13.jpg	Alcohol 5.jpg	Feces 2.jpg	2	5	3	32	1.125538e+00
+Feces 1.jpg	Gazing 7.jpg	Tumor 1.jpg	Severed finger 1.jpg	2	4	2	31	1.495059e+00
+Tumor 1.jpg	Spider 2.jpg	Lake 15.jpg	Severed finger 1.jpg	2	4	1	30	2.299300e-01
+Dog 13.jpg	Lake 15.jpg	Street 4.jpg	Dead bodies 1.jpg	2	3	7	36	5.591614e-01
+Sunset 3.jpg	Gazing 7.jpg	Lake 12.jpg	Dirt 5.jpg	2	2	7	36	4.055556e-01
+Fence 2.jpg	Dead bodies 1.jpg	Office supplies 1.jpg	Beach 2.jpg	2	4	3	32	2.979459e-01
+Dog 19.jpg	KKK rally 1.jpg	Dead bodies 1.jpg	Cotton swabs 2.jpg	2	5	2	31	1.081981e+00
+Fence 4.jpg	Feces 2.jpg	Dog 13.jpg	Tumor 1.jpg	2	3	2	31	9.214406e-01
+Cotton swabs 2.jpg	KKK rally 1.jpg	Gazing 7.jpg	Dirt 5.jpg	2	2	3	32	2.653682e-01
+Office supplies 1.jpg	Lake 9.jpg	Goat 2.jpg	Tumor 1.jpg	2	3	2	31	2.385967e-01
+Beach 2.jpg	Goat 2.jpg	Injury 1.jpg	Dog 19.jpg	2	3	7	36	2.195514e-01
+Heart 1.jpg	Severed finger 1.jpg	Sunset 4.jpg	Injury 4.jpg	2	3	2	31	6.737766e-01
+Bar 2.jpg	Lake 12.jpg	Fire hydrant 2.jpg	Sunset 3.jpg	2	5	8	37	2.173375e+00
+Injury 4.jpg	Cat 10.jpg	Street 4.jpg	Feces 1.jpg	2	2	1	30	2.590402e-01
+Cliff diver 1.jpg	Goat 2.jpg	Heart 1.jpg	Sunset 3.jpg	2	2	7	36	2.851365e-01
+Injury 1.jpg	Lake 9.jpg	Fence 4.jpg	Alcohol 5.jpg	2	4	1	30	6.399568e-02
+Alcohol 5.jpg	Severed finger 1.jpg	Goat 2.jpg	Feces 1.jpg	2	3	6	35	6.783147e-01
+Fence 2.jpg	Injury 1.jpg	Cliff diver 1.jpg	Goat 2.jpg	2	5	3	32	1.382145e+00
+Tumor 1.jpg	Bored pose 1.jpg	Spider 2.jpg	Severed finger 1.jpg	2	5	1	30	3.426558e+00
+Lake 9.jpg	Office supplies 1.jpg	Sunset 4.jpg	Severed finger 1.jpg	2	2	7	36	1.502824e+00
+Goat 2.jpg	Feces 2.jpg	Dirt 5.jpg	Dead bodies 1.jpg	2	2	5	34	4.101913e+00
+Dirt 5.jpg	Fence 4.jpg	Severed finger 1.jpg	Dog 13.jpg	2	1	3	32	1.069247e+00
+Plane crash 3.jpg	Cat 10.jpg	Dog 19.jpg	KKK rally 1.jpg	2	4	4	33	3.366767e+00
+Cat 10.jpg	Plane crash 3.jpg	Lake 14.jpg	Severed finger 1.jpg	2	1	7	36	7.357818e-01
+Feces 2.jpg	Goat 2.jpg	Street 4.jpg	Beach 2.jpg	2	2	1	30	3.732265e-01
+Spider 2.jpg	Cliff diver 1.jpg	Lake 15.jpg	Heart 1.jpg	2	1	5	34	2.832502e-01
+Sunset 4.jpg	Bored pose 1.jpg	Beach 2.jpg	Fire hydrant 2.jpg	2	4	7	36	2.530595e-01
+Street 4.jpg	Lake 9.jpg	Feces 1.jpg	Heart 1.jpg	2	5	8	37	3.524171e+00
+Nature 1.jpg	Sunset 4.jpg	Injury 4.jpg	Lake 15.jpg	2	1	9	38	3.879460e-01
+Bored pose 1.jpg	Fence 4.jpg	Dirt 5.jpg	Nature 1.jpg	2	4	6	35	4.790324e-01
+Lake 14.jpg	Lake 12.jpg	Cat 10.jpg	Office supplies 1.jpg	2	1	9	38	1.673242e+00
+Severed finger 1.jpg	Nature 1.jpg	Alcohol 5.jpg	Lake 9.jpg	2	1	1	30	3.628066e-02
+Cat 10.jpg	Office supplies 1.jpg	Dirt 5.jpg	Lake 15.jpg	2	5	7	36	2.307117e+00
+Bar 2.jpg	Bored pose 1.jpg	Gazing 7.jpg	Cliff diver 1.jpg	2	1	3	32	8.150332e-01
+Gazing 7.jpg	Bored pose 1.jpg	Feces 2.jpg	Street 4.jpg	2	4	7	36	2.095284e+00
+Wedding 12.jpg	Nature 1.jpg	Dog 19.jpg	Fence 4.jpg	2	3	3	32	3.187558e-01

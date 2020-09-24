@@ -1,0 +1,42 @@
+Participant: JR
+12 06 18 16:32:12
+image_duration: 0.20
+precue_duration: 1.00
+pause_duration: 0.50
+image	pelasure	key_pressed	rt	
+Dog 19.jpg	2	90	6.448890e-01
+Injury 1.jpg	3	91	1.113931e+00
+Lake 9.jpg	8	96	3.245078e+00
+Fence 4.jpg	2	90	4.819316e+00
+Wedding 12.jpg	3	91	9.773621e-03
+Heart 1.jpg	2	90	9.769317e-03
+Lake 15.jpg	9	97	4.529240e+00
+Beach 2.jpg	7	95	6.008851e+00
+Fire hydrant 2.jpg	2	90	1.031368e-01
+Injury 4.jpg	7	95	1.212030e+00
+Tumor 1.jpg	3	91	2.159437e-01
+Goat 2.jpg	7	95	3.113446e+00
+Cat 10.jpg	4	92	2.545239e+00
+Severed finger 1.jpg	2	90	1.026217e-01
+Spider 2.jpg	1	89	3.208919e+00
+Dirt 5.jpg	2	90	2.916630e-02
+Feces 1.jpg	2	90	2.285853e-02
+Alcohol 5.jpg	3	91	7.308704e-01
+Sunset 3.jpg	8	96	3.137082e+00
+Dead bodies 1.jpg	5	93	4.201019e-01
+Office supplies 1.jpg	2	90	2.267546e-02
+Feces 2.jpg	3	91	1.106513e-01
+Plane crash 3.jpg	4	92	1.304577e-01
+KKK rally 1.jpg	6	94	8.126402e-01
+Fence 2.jpg	2	90	9.011553e-02
+Bored pose 1.jpg	2	90	2.843307e-01
+Gazing 7.jpg	9	97	3.723591e+00
+Nature 1.jpg	9	97	2.295101e+00
+Bar 2.jpg	5	93	1.847429e+00
+Sunset 4.jpg	9	97	4.268699e+00
+Lake 14.jpg	9	97	2.867510e+00
+Cotton swabs 2.jpg	1	89	1.959364e+00
+Cliff diver 1.jpg	4	92	8.118289e-01
+Lake 12.jpg	8	96	2.102617e+00
+Street 4.jpg	2	90	2.637076e-01
+Dog 13.jpg	2	90	3.650920e-01

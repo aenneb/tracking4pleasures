@@ -1,0 +1,42 @@
+Participant: ec
+11 26 18 15:42:17
+image_duration: 0.20
+precue_duration: 1.00
+pause_duration: 0.50
+image	pelasure	key_pressed	rt	
+Fence 4.jpg	1	30	1.086450e+00
+Cliff diver 1.jpg	3	32	1.126549e+00
+Cat 10.jpg	7	36	3.191994e-01
+Gazing 7.jpg	1	30	2.396948e-01
+KKK rally 1.jpg	1	30	3.049388e-01
+Severed finger 1.jpg	1	30	5.116879e-01
+Lake 15.jpg	5	34	6.780377e-01
+Lake 14.jpg	6	35	8.094473e-01
+Heart 1.jpg	1	30	2.912962e-01
+Lake 12.jpg	7	36	9.134935e-01
+Cotton swabs 2.jpg	1	30	3.336364e-01
+Lake 9.jpg	6	35	2.323564e-01
+Injury 1.jpg	1	30	2.786325e-01
+Tumor 1.jpg	1	30	2.469596e-01
+Plane crash 3.jpg	1	30	7.005719e-01
+Street 4.jpg	5	34	8.865076e-01
+Feces 1.jpg	1	30	2.805788e-01
+Office supplies 1.jpg	4	33	4.891055e-01
+Goat 2.jpg	5	34	2.541000e-01
+Dirt 5.jpg	1	30	1.774182e-01
+Beach 2.jpg	6	35	9.114963e-01
+Dog 19.jpg	6	35	2.997960e-01
+Feces 2.jpg	1	30	2.719378e-01
+Dead bodies 1.jpg	1	30	3.662026e-01
+Sunset 4.jpg	6	35	2.389614e-01
+Injury 4.jpg	1	30	4.746565e-01
+Fence 2.jpg	1	30	2.142358e+00
+Fire hydrant 2.jpg	1	30	3.006746e-01
+Sunset 3.jpg	5	34	3.602193e-01
+Wedding 12.jpg	4	33	4.219966e-01
+Nature 1.jpg	5	34	1.046399e+00
+Dog 13.jpg	4	33	1.900499e+00
+Bar 2.jpg	1	30	1.980420e-01
+Bored pose 1.jpg	1	30	1.380036e-01
+Spider 2.jpg	1	30	3.597108e-01
+Alcohol 5.jpg	4	33	7.030685e-01

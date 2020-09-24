@@ -1,0 +1,42 @@
+Participant: sjl
+02 14 20 11:05:38
+image_duration: 0.20
+precue_duration: 1.00
+pause_duration: 0.50
+image	pelasure	key_pressed	rt	
+Injury 4.jpg	1	30	2.092381e+00
+Beach 2.jpg	5	34	1.977519e+00
+Spider 2.jpg	1	30	6.748819e-01
+Heart 1.jpg	1	30	2.681872e+00
+Feces 2.jpg	1	30	2.997777e+00
+Wedding 12.jpg	5	34	4.075826e-01
+Injury 1.jpg	1	30	1.273555e+00
+Tumor 1.jpg	1	30	1.970776e+00
+Bar 2.jpg	5	34	3.874653e-01
+Sunset 4.jpg	6	35	1.097739e+00
+Bored pose 1.jpg	4	33	2.038199e+00
+Cat 10.jpg	4	33	2.468188e-01
+Alcohol 5.jpg	4	33	1.592165e+00
+Gazing 7.jpg	5	34	3.076672e-02
+Lake 9.jpg	7	36	2.220587e+00
+Goat 2.jpg	4	33	3.460828e-01
+Lake 15.jpg	7	36	3.138103e+00
+Feces 1.jpg	1	30	2.443929e-02
+Cliff diver 1.jpg	4	33	2.773528e-01
+Plane crash 3.jpg	3	32	6.072661e-01
+Dog 13.jpg	6	35	1.859328e-01
+Fire hydrant 2.jpg	2	31	2.396274e+00
+Nature 1.jpg	6	35	1.504774e-01
+Fence 4.jpg	3	32	4.736758e-01
+Severed finger 1.jpg	1	30	2.097202e+00
+Office supplies 1.jpg	2	31	5.663277e-01
+Lake 12.jpg	7	36	8.290596e-02
+Fence 2.jpg	5	34	1.033715e-01
+Sunset 3.jpg	8	37	2.160986e+00
+Dead bodies 1.jpg	1	30	1.659184e+00
+Street 4.jpg	4	33	1.974631e-01
+Cotton swabs 2.jpg	3	32	2.868101e-01
+Dirt 5.jpg	2	31	8.374709e-01
+Dog 19.jpg	6	35	1.670333e-01
+Lake 14.jpg	7	36	5.073890e-01
+KKK rally 1.jpg	1	30	1.500835e+00

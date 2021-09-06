@@ -1,11 +1,11 @@
 # tracking4pleasures
-Experiment materials, code, data, and supporting files for a follow-up study on Brielmann &amp; Pelli (2020).
+Experiment materials, code, data, and supporting files for a follow-up study on [Brielmann &amp; Pelli (2020)](https://link.springer.com/article/10.3758/s13423-019-01695-6).
 Materials and methods follow the one of this previous study but extends the protocol from 2 to 4 images.
 
 
 
 Reference:
-Brielmann, A. A., & Pelli, D. G. (under review). the pelasure of multiple images. Attention, Perception, & Psychophysics
+Brielmann, A. A., & Pelli, D. G. (2021). [The pleasure of multiple images](https://link.springer.com/article/10.3758/s13414-020-02175-z). Attention, Perception, & Psychophysics, 83(3), 1179-1188.
 
 ## Folder structure
 
